@@ -37,7 +37,7 @@ The technology stack used in the acade.me project includes:
 
 ### Database
 
-- **SQL**: PostgreSQL (with a modular architecture to allow community-contributed drivers for different databases/storage systems)
+- **SQL**: PostgreSQL (expected to have more drivers in the future)
 
 ### Testing
 
