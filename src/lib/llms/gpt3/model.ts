@@ -1,0 +1,1 @@
+const DEFAULT_PROMPTS_FILE = 'prompts/gpt3.yaml'
